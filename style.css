@@ -82,3 +82,15 @@ h2 {
 .links:hover {
     background-color: orangered;
 }
+html
+{
+    scroll-behavior: smooth;
+}
+a
+{
+ text-decoration: none;
+    font-size: 40px;
+}
+.aTag:hover {
+    background-color: cadetblue;
+}
